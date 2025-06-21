@@ -1,0 +1,4 @@
+# Ignorar archivos generados automáticamente
+articulos_completos.json
+articulos_completos.csv
+articulos_completos.xlsx

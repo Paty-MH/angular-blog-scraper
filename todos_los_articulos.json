@@ -1,0 +1,222 @@
+[
+  {
+    "titulo": "Announcing Angular v20",
+    "texto": "Minko Gechev",
+    "fecha": "Fecha no disponible",
+    "enlace": "https://medium.com/@mgechev?source=collection_home_page----447683c3d9a3-----0-----------------------------------",
+    "autor": {
+      "nombre": "Autor",
+      "apellido": "desconocido",
+      "avatar": "https://miro.medium.com/v2/resize:fill:40:40/1*PC5hsShK0vnUFfFVoWjMNg.jpeg"
+    }
+  },
+  {
+    "titulo": "Build AI-Powered Apps With Genkit and Angular",
+    "texto": "Angular",
+    "fecha": "Fecha no disponible",
+    "enlace": "https://medium.com/@angularteam?source=collection_home_page----447683c3d9a3-----1-----------------------------------",
+    "autor": {
+      "nombre": "Autor",
+      "apellido": "desconocido",
+      "avatar": "https://miro.medium.com/v2/resize:fill:40:40/1*jlg3PXZ6PYdUGy40tXybKw.gif"
+    }
+  },
+  {
+    "titulo": "Seamless data fetching with httpResource",
+    "texto": "Matthieu Riegler",
+    "fecha": "Fecha no disponible",
+    "enlace": "https://medium.com/@matthieuriegler?source=collection_home_page----447683c3d9a3-----2-----------------------------------",
+    "autor": {
+      "nombre": "Autor",
+      "apellido": "desconocido",
+      "avatar": "https://miro.medium.com/v2/resize:fill:40:40/0*AlVzEVl10P09VRZx.jpg"
+    }
+  },
+  {
+    "titulo": "Angular 19.2 Is Now Available",
+    "texto": "Angular",
+    "fecha": "Fecha no disponible",
+    "enlace": "https://medium.com/@angularteam?source=collection_home_page----447683c3d9a3-----3-----------------------------------",
+    "autor": {
+      "nombre": "Autor",
+      "apellido": "desconocido",
+      "avatar": "https://miro.medium.com/v2/resize:fill:40:40/1*jlg3PXZ6PYdUGy40tXybKw.gif"
+    }
+  },
+  {
+    "titulo": "Micro Frontends with Angular and Native Federation",
+    "texto": "Manfred Steyer",
+    "fecha": "Fecha no disponible",
+    "enlace": "https://medium.com/@manfredsteyer81?source=collection_home_page----447683c3d9a3-----4-----------------------------------",
+    "autor": {
+      "nombre": "Autor",
+      "apellido": "desconocido",
+      "avatar": "https://miro.medium.com/v2/resize:fill:40:40/0*ie_F70F4bb0alhdm"
+    }
+  },
+  {
+    "titulo": "Angular 2025 Strategy",
+    "texto": "Minko Gechev",
+    "fecha": "Fecha no disponible",
+    "enlace": "https://medium.com/@mgechev?source=collection_home_page----447683c3d9a3-----5-----------------------------------",
+    "autor": {
+      "nombre": "Autor",
+      "apellido": "desconocido",
+      "avatar": "https://miro.medium.com/v2/resize:fill:40:40/1*PC5hsShK0vnUFfFVoWjMNg.jpeg"
+    }
+  },
+  {
+    "titulo": "Try Out the New Signal Input Migrations",
+    "texto": "Angular",
+    "fecha": "Fecha no disponible",
+    "enlace": "https://medium.com/@angularteam?source=collection_home_page----447683c3d9a3-----6-----------------------------------",
+    "autor": {
+      "nombre": "Autor",
+      "apellido": "desconocido",
+      "avatar": "https://miro.medium.com/v2/resize:fill:40:40/1*jlg3PXZ6PYdUGy40tXybKw.gif"
+    }
+  },
+  {
+    "titulo": "Meet Angular v19",
+    "texto": "Minko Gechev",
+    "fecha": "Fecha no disponible",
+    "enlace": "https://medium.com/@mgechev?source=collection_home_page----447683c3d9a3-----7-----------------------------------",
+    "autor": {
+      "nombre": "Autor",
+      "apellido": "desconocido",
+      "avatar": "https://miro.medium.com/v2/resize:fill:40:40/1*PC5hsShK0vnUFfFVoWjMNg.jpeg"
+    }
+  },
+  {
+    "titulo": "Angular v19 Release: Join the Watch Parties!",
+    "texto": "Angular",
+    "fecha": "Fecha no disponible",
+    "enlace": "https://medium.com/@angularteam?source=collection_home_page----447683c3d9a3-----8-----------------------------------",
+    "autor": {
+      "nombre": "Autor",
+      "apellido": "desconocido",
+      "avatar": "https://miro.medium.com/v2/resize:fill:40:40/1*jlg3PXZ6PYdUGy40tXybKw.gif"
+    }
+  },
+  {
+    "titulo": "Latest updates to effect() in Angular",
+    "texto": "Angular",
+    "fecha": "Fecha no disponible",
+    "enlace": "https://medium.com/@angularteam?source=collection_home_page----447683c3d9a3-----9-----------------------------------",
+    "autor": {
+      "nombre": "Autor",
+      "apellido": "desconocido",
+      "avatar": "https://miro.medium.com/v2/resize:fill:40:40/1*jlg3PXZ6PYdUGy40tXybKw.gif"
+    }
+  },
+  {
+    "titulo": "The future is standalone!",
+    "texto": "Alex Rickabaugh",
+    "fecha": "Fecha no disponible",
+    "enlace": "https://medium.com/@synalx?source=collection_home_page----447683c3d9a3-----10-----------------------------------",
+    "autor": {
+      "nombre": "Autor",
+      "apellido": "desconocido",
+      "avatar": "https://miro.medium.com/v2/resize:fill:20:20/1*yNCBVxf7m7JX0QAJQBEEAA.jpeg"
+    }
+  },
+  {
+    "titulo": "Using isolatedModules in Angular 18.2",
+    "texto": "Angular",
+    "fecha": "Fecha no disponible",
+    "enlace": "https://medium.com/@angularteam?source=collection_home_page----447683c3d9a3-----11-----------------------------------",
+    "autor": {
+      "nombre": "Autor",
+      "apellido": "desconocido",
+      "avatar": "https://miro.medium.com/v2/resize:fill:20:20/1*jlg3PXZ6PYdUGy40tXybKw.gif"
+    }
+  },
+  {
+    "titulo": "The Future of Material Support in Angular",
+    "texto": "Angular",
+    "fecha": "Fecha no disponible",
+    "enlace": "https://medium.com/@angularteam?source=collection_home_page----447683c3d9a3-----12-----------------------------------",
+    "autor": {
+      "nombre": "Autor",
+      "apellido": "desconocido",
+      "avatar": "https://miro.medium.com/v2/resize:fill:20:20/1*jlg3PXZ6PYdUGy40tXybKw.gif"
+    }
+  },
+  {
+    "titulo": "Immerse Yourself in Generative Art: An Angular WebXR Adventure",
+    "texto": "Ayşegül Yönet",
+    "fecha": "Fecha no disponible",
+    "enlace": "https://medium.com/@aysegulyonet?source=collection_home_page----447683c3d9a3-----13-----------------------------------",
+    "autor": {
+      "nombre": "Autor",
+      "apellido": "desconocido",
+      "avatar": "https://miro.medium.com/v2/resize:fill:20:20/1*_OCcPkqMCGKIn1l0_1Eu2A.jpeg"
+    }
+  },
+  {
+    "titulo": "Introducing @let in Angular",
+    "texto": "Angular",
+    "fecha": "Fecha no disponible",
+    "enlace": "https://medium.com/@angularteam?source=collection_home_page----447683c3d9a3-----14-----------------------------------",
+    "autor": {
+      "nombre": "Autor",
+      "apellido": "desconocido",
+      "avatar": "https://miro.medium.com/v2/resize:fill:20:20/1*jlg3PXZ6PYdUGy40tXybKw.gif"
+    }
+  },
+  {
+    "titulo": "Angular v18 is now available!",
+    "texto": "Minko Gechev",
+    "fecha": "Fecha no disponible",
+    "enlace": "https://medium.com/@mgechev?source=collection_home_page----447683c3d9a3-----15-----------------------------------",
+    "autor": {
+      "nombre": "Autor",
+      "apellido": "desconocido",
+      "avatar": "https://miro.medium.com/v2/resize:fill:20:20/1*PC5hsShK0vnUFfFVoWjMNg.jpeg"
+    }
+  },
+  {
+    "titulo": "Event Dispatch in Angular",
+    "texto": "Angular",
+    "fecha": "Fecha no disponible",
+    "enlace": "https://medium.com/@angularteam?source=collection_home_page----447683c3d9a3-----16-----------------------------------",
+    "autor": {
+      "nombre": "Autor",
+      "apellido": "desconocido",
+      "avatar": "https://miro.medium.com/v2/resize:fill:20:20/1*jlg3PXZ6PYdUGy40tXybKw.gif"
+    }
+  },
+  {
+    "titulo": "Angular and Wiz Are Better Together",
+    "texto": "Angular",
+    "fecha": "Fecha no disponible",
+    "enlace": "https://medium.com/@angularteam?source=collection_home_page----447683c3d9a3-----17-----------------------------------",
+    "autor": {
+      "nombre": "Autor",
+      "apellido": "desconocido",
+      "avatar": "https://miro.medium.com/v2/resize:fill:20:20/1*jlg3PXZ6PYdUGy40tXybKw.gif"
+    }
+  },
+  {
+    "titulo": "Meet Angular’s new output() API",
+    "texto": "Paul Gschwendtner",
+    "fecha": "Fecha no disponible",
+    "enlace": "https://medium.com/@devversion?source=collection_home_page----447683c3d9a3-----18-----------------------------------",
+    "autor": {
+      "nombre": "Autor",
+      "apellido": "desconocido",
+      "avatar": "https://miro.medium.com/v2/resize:fill:20:20/1*Tfro-yWzkmOgRGboztdEYA.jpeg"
+    }
+  },
+  {
+    "titulo": "Angular with NativeScript: Creating the Blackout Lighting Console",
+    "texto": "Nathan Walker",
+    "fecha": "Fecha no disponible",
+    "enlace": "https://medium.com/@wwwalkerrun?source=collection_home_page----447683c3d9a3-----19-----------------------------------",
+    "autor": {
+      "nombre": "Autor",
+      "apellido": "desconocido",
+      "avatar": "https://miro.medium.com/v2/resize:fill:20:20/1*v1sQabUPZ9Yj5PWqrNf5_A.jpeg"
+    }
+  }
+]
